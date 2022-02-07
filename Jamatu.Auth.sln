@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jamatu.Auth.Api", "Jamatu.Auth.Api\Jamatu.Auth.Api.csproj", "{CA07F4E3-B3B9-40EC-ABF5-C91A2E149DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jamatu.Auth.Application", "Jamatu.Auth.Application\Jamatu.Auth.Application.csproj", "{78812A96-B721-4498-AA59-2D4B9AAAAF54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jamatu.Auth.Data", "Jamatu.Auth.Data\Jamatu.Auth.Data.csproj", "{E9AE2B37-C98F-4AE2-8F53-12190A12FD8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jamatu.Auth.Core", "Jamatu.Auth.Core\Jamatu.Auth.Core.csproj", "{30515557-B344-4075-966C-0F8C82D4356F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA07F4E3-B3B9-40EC-ABF5-C91A2E149DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA07F4E3-B3B9-40EC-ABF5-C91A2E149DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA07F4E3-B3B9-40EC-ABF5-C91A2E149DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA07F4E3-B3B9-40EC-ABF5-C91A2E149DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78812A96-B721-4498-AA59-2D4B9AAAAF54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78812A96-B721-4498-AA59-2D4B9AAAAF54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78812A96-B721-4498-AA59-2D4B9AAAAF54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78812A96-B721-4498-AA59-2D4B9AAAAF54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9AE2B37-C98F-4AE2-8F53-12190A12FD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9AE2B37-C98F-4AE2-8F53-12190A12FD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9AE2B37-C98F-4AE2-8F53-12190A12FD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9AE2B37-C98F-4AE2-8F53-12190A12FD8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30515557-B344-4075-966C-0F8C82D4356F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30515557-B344-4075-966C-0F8C82D4356F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30515557-B344-4075-966C-0F8C82D4356F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30515557-B344-4075-966C-0F8C82D4356F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F7F0B1B-3C85-426C-9252-6472F9392F0B}
+	EndGlobalSection
+EndGlobal
